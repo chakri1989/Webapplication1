@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Chakri's Devops World!!! </h1>
-<h1> test2 by cloudnloud </h1>
+<h1> Testing 1 for Artifactory Snapshot </h1>
 
